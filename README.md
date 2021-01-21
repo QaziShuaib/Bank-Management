@@ -1,29 +1,31 @@
-Welcome Screen
+#Draft for Bank-Management software
+                              
+                             ##Welcome Screen
 1.	Add new account
 2.	Login to existing account
 on Display, after login: showing name, acc no, address, phone no
 
-a)	Edit info: change name, address, phone
+        a)	Edit info: change name, address, phone
 
-b)	Deposit money
+        b)	Deposit money
 
-c)	Withdraw money
+        c)	Withdraw money
 
-d)	Check balance
+        d)	Check balance
 
-e)	Check fixed deposits
+        e)	Check fixed deposits
 
-f)	Make a Fixed Deposit.
+        f)	Make a Fixed Deposit.
 
-g)	Request account closing
+        g)	Request account closing
 
-h)	exit
+        h)	exit
 
-3.	Administrator check up:
+3.	Administrator check up: 
 
-a) check account closing requests 
+        a) check account closing requests 
 
-b) show ALL the info stored
+        b) show ALL the info stored
 
 4.	Help
 
@@ -31,8 +33,8 @@ b) show ALL the info stored
 
 6.	exit
 
-
-Functions
+                                                     
+                          ##Functions
 
 1.	Welcome_Screen () which will display above functions as a list and take corresponding number as choice.
 2.	Interest (int principal, int rate, int time)
