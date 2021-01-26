@@ -1,6 +1,7 @@
-#Draft for Bank-Management software
+# Draft for Bank-Management software
                               
-                             ##Welcome Screen
+  ## Welcome Screen
+  
 1.	Add new account
 2.	Login to existing account
 on Display, after login: showing name, acc no, address, phone no
@@ -34,7 +35,7 @@ on Display, after login: showing name, acc no, address, phone no
 6.	exit
 
                                                      
-                          ##Functions
+  ## Functions
 
 1.	Welcome_Screen () which will display above functions as a list and take corresponding number as choice.
 2.	Interest (int principal, int rate, int time)
